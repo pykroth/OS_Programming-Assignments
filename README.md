@@ -1,5 +1,5 @@
 # OS_Programming-Assignments
-OS Programming Assignments done for Prof Rincon COSC 3360
+OS Programming Assignments done for Prof Rincon COSC 3360.
 The idea for these assignment was to implement a Rate Monolithic Scheduling Diagram through various different ways. 
 # The first implementation 
 The first implentation utilizes forking to process the data and print out the data.
